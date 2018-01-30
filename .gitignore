@@ -1,3 +1,9 @@
-*/mnist_convnet_model/*
-*/MNIST-data/*
+*/*/mnist_convnet_model/*
+*/*/MNIST-data/*
 */tmp/*
+*/7_output/*
+*/8_output/*
+*/MNIST_data/*
+*/02_boston/*
+*/iris_model/*
+
